@@ -1,0 +1,12 @@
+[
+  {
+    "Time": "2016-01-14T01:02:03Z",
+    "Source": "com.mycompany.myapp",
+    "Resources": [
+      "resource1",
+      "resource2"
+    ],
+    "DetailType": "myDetailType",
+    "Detail": "{ \"key1\": \"value1\", \"key2\": \"value2\" }"
+  }
+]
